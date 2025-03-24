@@ -7,7 +7,7 @@ As macOS uses subtle cues to highlight the active window, it is not always visua
 
 ## Installation
 
-Add this to your Hammerspoon config (`~/.hammerspoon/init.lua`) after placing the `highlightActiveWindow.lua` in the `~/.hammerspoon/modules/` directory:
+Add this to your Hammerspoon config (`~/.hammerspoon/init.lua`) after placing the `highlightActiveWindow.lua` file in the `~/.hammerspoon/modules/` directory:
 
 ```
 -- (002) Keeps a red border around active window so that it is
